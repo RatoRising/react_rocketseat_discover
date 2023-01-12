@@ -1,13 +1,15 @@
 .card {
-   height: 70px;
-   width: 50%;
-   background: #735bf2;
-   color: #fff;
-   border-radius: 5px;
-   margin-bottom: 20px;
-   padding: 1.5rem;
-   display: flex;
-   align-items: center;
-   justify-content: space-between;
-   font-size: 18px;
+  height: 70px;
+  width: 50%;
+  background: #735bf2;
+  color: #fff;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
 }
+
+/*# sourceMappingURL=styles.css.map */
